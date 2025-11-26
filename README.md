@@ -27,9 +27,15 @@ Principle of least effort: One proposed explanation is that the distribution res
 So how to run it?
 
 Step 1: Download the .zip file and then extract the downloaded .zip file (.zip is a file extension, which is different from zifp :) ).
+
 Step 2: Open the .ipynb file either in google colab or jyputer notebook.
+
 Step 3: Upload the pdf or the text file(.txt extension) into google drive for colab; or upload in the same folder as .ipynb file, if in jupyter notebook.
-Step 4: Open the .ipynb file, and run it by following the instructions (comments) given.
+
+Step 4: Open the .ipynb file, and run it by following the instructions (comments) given. 
+
+In python file (.ipynb): 
+The order of functios is as follows - 1 - Import pdf file, 2 - convert pdf to text file, 3 - count word frequencies, 4 - download csv file if needed for the word frequencies, 5 - Plot between words and their frequencies.
 
 Tools needed:
 
