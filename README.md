@@ -41,3 +41,6 @@ Tools needed:
 
 Jupyter notebook or
 Gooogle Colab and Drive
+
+Plot Image
+![alt text](https://github.com/alwaysmodernman/Zipf_s_law/blob/main/zifp_plot.png?raw=true)
